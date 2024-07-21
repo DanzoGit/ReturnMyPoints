@@ -1,0 +1,3 @@
+<Danzo>
+	<remove xpath="/quests/quest[@id='tier6_test_turnin']/reward"/>
+</Danzo>

@@ -1,3 +1,9 @@
 <Danzo>
 	<remove xpath="/quests/quest[@id='tier6_test_turnin']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier1complete']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier2complete']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier3complete']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier4complete']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier5complete']/reward"/>
+	<remove xpath="/quests/quest[@id='quest_tier6complete']/reward"/>
 </Danzo>

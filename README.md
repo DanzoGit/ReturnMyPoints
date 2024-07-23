@@ -5,7 +5,7 @@ After the latest update, the quest progression was reset. For those like me who 
 
 2. **Enable Developer Blocks**
    
-3. **Search for "t6quest"**
+3. **Search for "t6quest", "t5quest", "t4quest", "t3quest", "t2quest" or "t1quest"**
 
 4. **Use and Complete It Several Times**
    - Repeat until you reach the desired result.
